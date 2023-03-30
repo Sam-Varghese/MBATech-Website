@@ -1,0 +1,12 @@
+iframe{
+    width: 45vw;
+    height: 50vh;
+    padding: 1vw;
+}
+
+.iframeDivs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
