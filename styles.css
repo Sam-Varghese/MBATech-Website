@@ -133,6 +133,7 @@ table, tr, td, th{
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 }
 
 .nmImage{
@@ -204,5 +205,6 @@ table, tr, td, th{
   }
   table, tr, td, th{
     font-size: 3vw;
+    overflow: auto;
   }
 }
